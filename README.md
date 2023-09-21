@@ -2,7 +2,7 @@
 - 👀 I’m interested in receiving feedback from hackers and cryptography majors, because i have currently created my own symmetric encryption algorithm and i would like to see how secure it is according to the professionals.
   
 - 🌱 I’m currently learning encryption algorithms for a school science club project
-- 💞️ I’m looking to collaborate on my algorithm
+- 💞️ I’m looking to collaborate on my algorithm that can be seen attached above in Main.java
 - 📫 How to reach me jazeellawrence@gmail.com
 
 <!---
